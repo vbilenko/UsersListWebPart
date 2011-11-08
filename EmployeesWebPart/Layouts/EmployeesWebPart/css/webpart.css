@@ -1,0 +1,9 @@
+.wpuser_container {padding: 10px}
+.wpuser_info {display: none}
+#wpuser_search {width: 100%; margin-bottom: 10px; border: solid 1px ActiveBorder}
+.wpuser_progress {background: url('../img/indicator.gif') no-repeat right center}
+.wpuser_image {position: absolute; border: solid 1px ActiveBorder; overflow: hidden; width: 59px; height: 63px}
+.wpuser_image img {width: 59px}
+.wpuser_name {margin-bottom: 5px}
+#wpuser_asklist {border: solid 1px ActiveBorder; padding: 5px}
+.wpuser_contacts {list-style: none; margin: 0; padding: 0; margin-top: 5px}
