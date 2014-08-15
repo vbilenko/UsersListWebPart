@@ -1,7 +1,7 @@
 UsersListWebPart
 ================
 
-Search SharePoint users and receive their data by SharePoint Foundation REST Interface
+Search SharePoint users and receive their data by SharePoint Foundation REST Interface. 
 Used: HTML, CSS, JavaScript, jQuery, RESTful service, OData protocol.
 
 Example for Habrahabr article.
